@@ -1,8 +1,10 @@
+import React, { memo } from "react";
+
 import useUser from "../../hooks/use-user";
 import User from "./user";
 import Suggestions from "./suggestions";
 
-export default function Sidebar() {
+const Sidebar = () => {
     const {
         user: { fullName, username, userId },
     } = useUser();
@@ -11,7 +13,10 @@ export default function Sidebar() {
         <div className="p-4">
             <User username={username} fullName={fullName} />
             <Suggestions userId={userId} />
-            <h1>Sidebar</h1>
         </div>
     );
-}
+};
+
+export default memo(Sidebar);
+
+Sidebar.whyDidYouRender = true;
