@@ -19,6 +19,11 @@ dia 9: https://youtu.be/AKeaaa8yAAk?t=17577
 
 dia 10: https://youtu.be/AKeaaa8yAAk?t=19216
 
+dia 11: https://youtu.be/AKeaaa8yAAk?t=20469
+
+dia 12: https://youtu.be/AKeaaa8yAAk?t=22202
+
+
 
 
 
