@@ -23,6 +23,8 @@ dia 11: https://youtu.be/AKeaaa8yAAk?t=20469
 
 dia 12: https://youtu.be/AKeaaa8yAAk?t=22202
 
+dia 13: https://youtu.be/AKeaaa8yAAk?t=24085
+
 
 
 
