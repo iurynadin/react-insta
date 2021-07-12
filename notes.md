@@ -25,6 +25,10 @@ dia 12: https://youtu.be/AKeaaa8yAAk?t=22202
 
 dia 13: https://youtu.be/AKeaaa8yAAk?t=24085
 
+dia 14: https://youtu.be/AKeaaa8yAAk?t=25274
+
+dia 15: https://youtu.be/AKeaaa8yAAk?t=27308
+
 
 
 
